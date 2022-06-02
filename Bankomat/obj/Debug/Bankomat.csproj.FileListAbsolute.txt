@@ -1,0 +1,10 @@
+C:\Ashimov\C#\Bankomat\bin\Debug\Bankomat.exe.config
+C:\Ashimov\C#\Bankomat\bin\Debug\Bankomat.exe
+C:\Ashimov\C#\Bankomat\bin\Debug\Bankomat.pdb
+C:\Ashimov\C#\Bankomat\obj\Debug\Bankomat.csproj.AssemblyReference.cache
+C:\Ashimov\C#\Bankomat\obj\Debug\Bankomat.F_Main.resources
+C:\Ashimov\C#\Bankomat\obj\Debug\Bankomat.Properties.Resources.resources
+C:\Ashimov\C#\Bankomat\obj\Debug\Bankomat.csproj.GenerateResource.cache
+C:\Ashimov\C#\Bankomat\obj\Debug\Bankomat.csproj.CoreCompileInputs.cache
+C:\Ashimov\C#\Bankomat\obj\Debug\Bankomat.exe
+C:\Ashimov\C#\Bankomat\obj\Debug\Bankomat.pdb
